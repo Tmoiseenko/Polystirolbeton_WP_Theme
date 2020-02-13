@@ -1,0 +1,42 @@
+.xleb-activ{
+	font-family: 'MetaPro';
+}
+.xleb-default{
+	font-family: 'MetaPro';	
+}
+.buy h2{
+	font-family: MetaPro-bold;
+	font-weight: normal;
+}
+/*.btn-s, .btn-t{*/
+	/*margin-bottom: 18px;*/
+/*}*/
+.table-2 h2{
+	margin-top: 30px;
+}
+.str a{
+	border:solid 1px #808080;
+	color: #808080;
+}
+a.active-pagin{
+	background: #FA6D22;
+	color: #fff;
+	border: solid 1px #FA6D22; 
+}
+.str a:hover{
+	border: solid 1px #FA6D22;
+}
+.m20{
+	margin-top: 65px;
+}
+@media only screen and (max-width: 500px){
+.buy-form select{
+	margin-bottom: 10px;
+}
+}
+@media only screen and (max-width: 500px){
+.buy-form p{
+	margin-bottom: 5px;
+}
+}
+

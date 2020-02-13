@@ -1,0 +1,96 @@
+#quality-poly-list{
+}
+
+.second-about p.li-item-romb img{
+    margin-right: 20px;
+}
+
+.second-about #quality-poly-list > p.li-item-romb{
+    margin: 35px 0px
+}
+
+.l-float{
+    float: left;
+    margin: 20px 20px 20px 0px;
+}
+
+.second-about .char-title{
+    font-family: MetaPro-bold;
+    font-size: 39px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.second-about .char-subtitle{
+    font-family: MetaPro-bold;
+    padding: 11px 0px;
+    background-color: #f79d01;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+.second-about .char-item-title{
+    font-family: MetaPro-bold;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.second-about .char-item-name{
+    font-family: MetaPro-bold;
+    font-size: 20px;
+    color: #f79d01;
+    text-transform: uppercase;
+}
+
+.second-about .char-item-prop{
+    font-family: MetaPro;
+}
+
+.second-about .char-item-wrapp .char-item-title, .second-about .char-item-wrapp .char-item{
+    margin: 30px 0px;
+}
+
+.second-about .char-total{
+    font-family: MetaPro-bold;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.second-about .char-img{
+    text-align: center;
+}
+
+.second-about .char-item-wrapp:nth-last-child(1){
+    margin-bottom: 0px;
+}
+
+.none.second-none{
+    margin-top: 0px;
+}
+
+.second-about table.char-table{
+    width: 100%;
+}
+
+th,
+td,
+tr{
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+}
+
+thead{
+    background-color: #f6f8fa;
+}
+
+.table-wrapp .char-title,
+.table-wrapp h3{
+    padding: 55px 0px 45px;
+    text-align: center;
+}
+
+.table-wrapp table{
+    width: 100%;
+}
